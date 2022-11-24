@@ -1,2 +1,3 @@
 Tugas UTS NO 5 Gheryyan Washesya Syagara
-Algoritma Pemrograman
+\n Algoritma Pemrograman
+\n Contoh Teks Editor GDBonline
